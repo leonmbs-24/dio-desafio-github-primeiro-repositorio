@@ -1,3 +1,10 @@
 Link para download do Git: https://git-scm.com/downloads
+Link do site para cadastro no GitHub: https://github.com/
 
-O git bash é um terminal extendido do Git para utilizar o uso do Git e fazer uma conexão ao GitHub
+O git bash é um terminal extendido do Git que é utilizado para fazer modificaçôes e envios do repositorio local para o repositório remoto do seu GitHub.
+
+Como devemos fazer um Push completo do repositório.
+1° Deve-se fazer um Git add (Nome do repositório) ele prepara as alterações que você fez para ser enviada, mas aqui, elas ainda não foram enviadas.
+2° Deve ser feito um Git commit e "especificar oque foi feito no commit", ele empacota as alterações que o comando git add preparou para serem enviadas.
+3° Agora sim pode ser feito um Git push, o codigo deve ser digitado da seguinte forma = git push origin main. Aqui de fato as alterações foram enviadas para o seu repositório remoto. 
+
