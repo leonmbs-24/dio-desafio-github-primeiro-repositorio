@@ -8,3 +8,4 @@ Como devemos fazer um Push completo do repositório.
 2° Deve ser feito um Git commit e "especificar oque foi feito no commit", ele empacota as alterações que o comando git add preparou para serem enviadas.
 3° Agora sim pode ser feito um Git push, o codigo deve ser digitado da seguinte forma = git push origin main. Aqui de fato as alterações foram enviadas para o seu repositório remoto. 
 
+Alteração Para teste no terminal
